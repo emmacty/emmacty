@@ -20,7 +20,6 @@ Quelques points clés 🔑
 📝 Ce sur quoi je travaille 
 * 👩‍⚕️ J'ai réalisé un carnet de santé numérique comme projet de fin de bootcamp : https://www.suivisante.org
 * 🧠 Je souhaite approfondir mes connaissances en Javascript et apprendre React
-* 🏋️‍♀️ Je travaille sur un projet personnel d'application mobile pour suivre ses séances de musculation avec Ruby on Rails
 
 👀 Où me trouver ?
 * 📫 Pour me contacter par e-mail : emmacauty@gmail.com
