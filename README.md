@@ -24,4 +24,5 @@ Quelques points clés 🔑
 👀 Où me trouver ?
 * 📫 Pour me contacter par e-mail : emmacauty@gmail.com
 * 📄 Visiter mon profil Linkedin : https://www.linkedin.com/in/emma-cauty/
+* 🎨 Mon portfolio : http://bit.ly/468RHra
 
